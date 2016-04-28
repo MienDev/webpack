@@ -1,4 +1,5 @@
 var path = require('path')
+var purify = require("purifycss-webpack-plugin");
 
 module.exports = {
   entry: {
